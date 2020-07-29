@@ -1,12 +1,16 @@
 {
   "name": "gndr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically detect a user's gender by fucking asking.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjhorner/gndr"
+  },
   "author": "TJ Horner <me@tjhorner.com>",
   "license": "MIT"
 }
