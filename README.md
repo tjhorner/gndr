@@ -20,7 +20,7 @@ const gender = identifyGender("non-binary", [ "he", "they" ])
  *   "gender": "non-binary",
  *   "pronouns": [ "he", "they" ]
  * }
- * /
+ */
 ```
 
 ## License
