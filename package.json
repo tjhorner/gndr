@@ -1,0 +1,12 @@
+{
+  "name": "gndr",
+  "version": "1.0.0",
+  "description": "Automatically detect a user's gender by fucking asking.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TJ Horner <me@tjhorner.com>",
+  "license": "MIT"
+}
